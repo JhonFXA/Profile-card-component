@@ -30,7 +30,7 @@ main {
     text-align: center;
     overflow: hidden;
     border-radius: 15px;
-    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.288);
+    box-shadow: 0 60px 40px rgba(0, 0, 0, 0.151);
 }
 
 .profile-pic {
